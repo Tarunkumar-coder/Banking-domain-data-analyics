@@ -1,2 +1,2 @@
 # Banking-domain-data-analyics
-Banking analytics project using Python, MySQL, and Power BI. Cleaned and analyzed banking data to create an interactive dashboard showing total clients, loans, deposits, and fees for quick business insights.
+This end-to-end project analyzes banking data using Python, MySQL, and Power BI to uncover insights about loans, deposits, and customer profiles. The data is cleaned and processed in Python, stored in MySQL, and visualized through an interactive Power BI dashboard that displays key metrics like total clients, total loans, deposits, and fees—making complex banking data easy to understand at a glance.
